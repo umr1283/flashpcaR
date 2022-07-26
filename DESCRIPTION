@@ -35,7 +35,8 @@ Suggests:
    qqman,
    data.table,
    ggVennDiagram,
-   doMC
+   doMC,
+   R.utils
 NeedsCompilation: yes
 RoxygenNote: 7.2.0
 Encoding: UTF-8
